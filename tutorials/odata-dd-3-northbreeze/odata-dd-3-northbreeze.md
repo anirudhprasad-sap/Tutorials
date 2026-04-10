@@ -8,6 +8,7 @@ tags: [ software-product>sap-business-technology-platform, topic>cloud, programm
 time: 20
 ---
 
+
 # Set up your own OData service
 
 <!-- description --> Get your own OData service up and running.
